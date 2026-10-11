@@ -28,6 +28,6 @@ Because this project relies on a C graphics library, you will need a C compiler 
    ./main
    ```
 
-   ##AUTHOR
+   ## AUTHOR
    Rameez Ahmed
    
